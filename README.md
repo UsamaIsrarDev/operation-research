@@ -8,7 +8,7 @@ Recorded lectures
 https://drive.google.com/drive/folders/1x2JrzLPDxZq0hUoEfdXLJEsZe5HkuA6v
 ```
 
-# Operation Research (OR) – Complete Course Content
+# Operation Research (OR)
 
 A complete guide to learning **Operation Research (OR)** from beginner to advanced level with **theory, practicals, real-world examples, charts, and references**. This course is designed for students, professionals, and researchers who want to apply OR techniques in real-world decision-making.
 
@@ -16,7 +16,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ## 📑 Table of Contents
 
-### **Module 1: Introduction to Operation Research (Beginner Level)**
+### **OR-01: Introduction to Operation Research (Beginner Level)**
 - Definition & Scope of OR  
 - Role of OR in decision-making  
 - Real-world applications (business, supply chain, airlines, IT, healthcare)  
@@ -31,7 +31,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 2: Linear Programming (LPP)**
+### **OR-02: Linear Programming (LPP)**
 - Problem Formulation  
 - Graphical Method (2-variable problems)  
 - Simplex Method  
@@ -44,7 +44,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 3: Transportation & Assignment Problems**
+### **OR-03: Transportation & Assignment Problems**
 - Transportation Problem  
   - Initial solutions: Northwest Corner, VAM, Least Cost  
   - Optimality test: MODI method  
@@ -56,7 +56,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 4: Integer Programming & Goal Programming**
+### **OR-04: Integer Programming & Goal Programming**
 - Integer Linear Programming (ILP)  
 - Mixed Integer Programming (MIP)  
 - Cutting Plane Method  
@@ -67,7 +67,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 5: Game Theory & Decision Analysis**
+### **OR-05: Game Theory & Decision Analysis**
 - Two-person zero-sum games  
 - Pure vs. Mixed strategies  
 - Solution Methods: Saddle point, Dominance rule, Graphical method, Simplex method  
@@ -78,7 +78,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 6: Network Models**
+### **OR-06: Network Models**
 - Shortest Path Problem (Dijkstra, Floyd-Warshall)  
 - Minimum Spanning Tree (Prim’s, Kruskal’s)  
 - Maximum Flow Problem (Ford-Fulkerson)  
@@ -90,7 +90,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 7: Inventory & Queuing Models**
+### **OR-07: Inventory & Queuing Models**
 - Inventory Control Models  
   - EOQ (Economic Order Quantity)  
   - Quantity Discount Model  
@@ -105,7 +105,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 8: Simulation & Advanced OR Techniques**
+### **OR-08: Simulation & Advanced OR Techniques**
 - Monte Carlo Simulation  
 - Discrete-Event Simulation  
 - Dynamic Programming  
@@ -121,7 +121,7 @@ A complete guide to learning **Operation Research (OR)** from beginner to advanc
 
 ---
 
-### **Module 9: Practical Tools & Professional Applications**
+### **OR-09: Practical Tools & Professional Applications**
 - OR with **Excel Solver**  
 - OR with **Python (PuLP, OR-Tools, Pyomo)**  
 - OR with **R Programming**  
