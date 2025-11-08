@@ -1,4 +1,4 @@
-# operation-research
+# Operation Research (OR)
 
 Applies analytical methods to optimize decision-making and resource use.
 
@@ -7,11 +7,6 @@ Recorded lectures
 ```
 https://drive.google.com/drive/folders/1x2JrzLPDxZq0hUoEfdXLJEsZe5HkuA6v
 ```
-
-# Operation Research (OR)
-
-A complete guide to learning **Operation Research (OR)** from beginner to advanced level with **theory, practicals, real-world examples, charts, and references**. This course is designed for students, professionals, and researchers who want to apply OR techniques in real-world decision-making.
-
 ---
 
 ## 📑 Table of Contents
